@@ -1,0 +1,12 @@
+C:\Users\Emirhan\source\repos\Odev02\Odev02\bin\Debug\net8.0\Odev02.deps.json
+C:\Users\Emirhan\source\repos\Odev02\Odev02\bin\Debug\net8.0\Odev02.dll
+C:\Users\Emirhan\source\repos\Odev02\Odev02\bin\Debug\net8.0\Odev02.pdb
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\Odev02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\Odev02.AssemblyInfoInputs.cache
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\Odev02.AssemblyInfo.cs
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\Odev02.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\Odev02.sourcelink.json
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\Odev02.dll
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\refint\Odev02.dll
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\Odev02.pdb
+C:\Users\Emirhan\source\repos\Odev02\Odev02\obj\Debug\net8.0\ref\Odev02.dll
