@@ -1,0 +1,133 @@
+Utwórz bibliotekę klas zawierającą klasy i mechanizmy wspomagające zarządzanie Gildią 
+najemników.
+Właściwości zaimplementuj w postaci właściwości automatycznych. Do klas dodaj konstruktory 
+i nadpisane wersje metody ToString().
+1. Zdefiniuj klasę reprezentującą najemnika:
+1) imię,
+2) poziom,
+3) liczba punktów doświadczenia,
+4) aktualna i maksymalna liczba punktów zdrowia,
+5) zadawane obrażenia,
+6) liczba złotych monet.
+2. Zdefiniuj enumerację z trudnościami wypraw:
+1) treningowa,
+2) łatwa,
+3) nie taka łatwa,
+4) trudna,
+5) bardzo trudna,
+6) koszmarnie trudna.
+3. Zdefiniuj klasę reprezentującą potwora:
+1) nazwa,
+2) liczba punktów zdrowia,
+3) zadawane obrażenia.
+4. Zdefiniuj klasę reprezentującą wyprawę:
+1) nazwa,
+2) opis,
+3) lokalizacja, 
+4) trudność (obiekt enumeracji) z punktu 2),
+5) potwór (obiekt klasy z punktu 3),
+6) liczba punktów doświadczenia i liczba złotych monet (nagrody po pomyślnym 
+zakończeniu wyprawy).
+5. Zdefiniuj klasę reprezentującą gildię najemników. Dodaj do niej następujące składowe:
+1) prywatną listę najemników (nie zapomnij o jej inicjalizacji), 
+2) prywatną listę wypraw (nie zapomnij o jej inicjalizacji),
+3) publiczną metodę do przyjmowania najemnika do gildii (dodaje przekazanego 
+poprzez parametr najemnika do listy najemników),
+4) publiczną metodę do zgłaszania nowej wyprawy do gildii (dodaje przekazaną poprzez 
+parametr wyprawę do listy wypraw),
+5) zapewnij unikalność imion najemników i nazw wypraw w gildii poprzez wyrzucenie
+własnych wyjątków w krytycznych sytuacjach w metodach do przyjmowania 
+najemnika i zgłaszania wyprawy,
+6) publiczną metodę do wysyłania najemnika na wyprawę przyjmującą dwa parametry: 
+imię najemnika i nazwę wyprawy. Implementacja tej metody może polegać, na 
+przykład, na:
+a. wyszukaniu najemnika i wyprawy,
+b. odjęciu najemnikowi odpowiedniej liczby punktów życia wynikającej 
+z obrażeń zadawanych przez potwora przypisanego do wyprawy,
+c. dodaniu najemnikowi liczby punktów doświadczenia i liczby złotych monet
+podanych w informacji o wyprawie, o ile będzie w stanie ją pomyślnie 
+ukończyć, czyli pokonać potwora,
+d. wypisaniu na konsolę odpowiedniej narracji (oczywiście z kolorkami).
+6. Zdefiniuj delegata pozwalającego na przechowywanie i wywoływanie metod przyjmujących 
+jako parametr najemnika i nie zwracających żadnej wartości (delegaty, tak samo jak klasy, 
+interfejsy, struktury, enumeracje i rekordy, możemy definiować bezpośrednio w przestrzeni 
+nazw).
+7. Zdefiniuj delegata pozwalającego na przechowywanie i wywoływanie metod przyjmujących 
+jako parametr wyprawę i nie zwracających żadnej wartości.
+8. Zdefiniuj delegata pozwalającego na przechowywanie i wywoływanie metod przyjmujących 
+jako parametry najemnika i wyprawę i nie zwracających żadnej wartości.
+9. Dodaj do gildii metodę pozwalającą na zrealizowanie wskazanej czynności na każdym 
+z najemników. Aby móc przekazać do niej własny fragment kodu wystarczy jako jej parametr 
+zadeklarować zmienną typu odpowiedniego delegata (w tym przypadku będzie to delegat na 
+3
+metody przyjmujące obiekt najemnika – ten z punktu 6). Definiowana metoda ma 
+wywoływać przekazaną przez parametr metodę dla każdej z wypraw.
+10. Dodaj do gildii metodę pozwalającą na zrealizowanie wskazanej czynności na każdej 
+z wypraw (analogicznie do punktu 9).
+11. Do gildii dopisz metody, które będą realizowały następujące wyszukiwania, czyli zwracały 
+najemników albo wyprawy (pojedynczy obiekt albo listę) na podstawie przekazanego 
+kryterium (wykorzystaj do ich implementacji metodę Find() albo FindAll() oraz wyrażenia 
+lambda jako ich argumenty):
+Metody Find() i FindAll() zdefiniowane w klasie generycznej List<T> przyjmują jako parametry 
+obiekty typu Predicate<T>. Metody zgodne z tym delegatem zwracają wartość logiczną, 
+a jako parametr przyjmują obiekty typu wskazanego poprzez parametr generyczny szablonu
+List<>.
+1) wyszukanie najemnika o podanym imieniu,
+2) wyszukanie najemnika o poziomie większym od zadanego lub maksymalnej liczbie 
+punktów zdrowia większej od zadanej.
+3) wyszukanie wyprawy o podanej nazwie,
+4) wyszukanie wypraw w danej lokalizacji i o danym stopniu trudności,
+12. Dodanie obsługi zdarzeń z wykorzystaniem słowa kluczowego event.
+Naszym celem jest umożliwienie programistom korzystającym z biblioteki przekazania ich 
+własnych metod, które wykonamy podczas przyjmowania najemnika, zgłaszania wyprawy 
+i wysyłania najemnika na wyprawę. W ten sposób metody te staną się bardzo elastyczne 
+(wykonają dodatkowy, przekazany kod oprócz ich podstawowej funkcjonalności). Innym 
+sposobem byłoby napisanie wielu przeciążonych wersji tych metod z różnymi parametrami, 
+co wymagałoby więcej czasu i oczywiście nie wyczerpało zbioru funkcjonalności, których owi 
+programiści mogliby sobie zażyczyć. 
+Obsługę zdarzeń związanych z wymienionymi powyżej funkcjonalnościami realizujemy 
+w następujący sposób.
+1) Definiujemy odpowiednie typy delegatów wskazujące na sygnatury metod, które 
+chcemy przekazywać i wywoływać w ramach obsługi zdarzeń. Tak się złożyło, że 
+wszystkie potrzebne delegaty już mamy. Przypadek?
+2) Definiujemy w gildii cztery obiekty odpowiednich delegatów, które pozwolą na 
+przekazanie z zewnątrz metod do wywołania podczas:
+a. przyjęcia najemnika (za instrukcją dodającą do listy),
+b. zgłoszenia nowej wyprawy (za instrukcją dodającą do listy),
+4
+5
+c. wysłania najemnika na wyprawę (przed jej odbyciem),
+d. wysłania najemnika na wyprawę (po jej odbyciu).
+Obiekty delegatów definiujemy jako publiczne i poprzedzamy je słowem kluczowym 
+event. Słówko to mówi kompilatorowi, żeby nie pozwalał na wywołanie metod 
+przechowywanych w tym obiekcie poza klasą, w której został zdefiniowany, oraz aby 
+nie pozwolił na przypisanie metody za pomocą operatora „=”. Dzięki temu, aby 
+zachować pełną kontrolę nad miejscem ich wywołania, nie musimy tworzyć 
+prywatnego obiektu delegata i pisać dla niego publicznych metod dostępowych. 
+Postarajmy się tak nazwać te cztery obiekty delegatów, aby wiadomo było od razu, 
+podczas jakich akcji zostaną wywołane przypisywane do nich metody. Na przykład, 
+można je nazwać: OnMercenaryHired, OnQuestAdded, OnQuestCompleteing,
+i OnQuestCompeted. Takie nazewnictwo wynika z konwencji:
+• słówko on wskazuje na akcje (on – podczas wykonywania pewnej czynności),
+• sufiks ing oznacza, że przekazany kod zostanie wykonany przed daną akcją,
+• sufiks ed oznacza, że zostanie wykonany po danej akcji. 
+3) Wywołujemy metody z obiektów delegatów w odpowiednich miejscach. Przed 
+wywołaniem sprawdzamy, czy w ogóle przekazano przynajmniej jedną metodę do 
+obsługi tego zdarzenia za pomocą instrukcji warunkowej z porównaniem z wartością 
+null, albo ze skróconym zapisem ze znakiem zapytania, np. 
+OnMercenaryHired?.Invoke(mercenary) (co oznacza, że kod po znaku zapytania 
+zostanie wykonany wyłącznie wtedy, gdy zmienna przed nim nie ma wartości null).
+II. Utwórz aplikację konsolową testującą przygotowaną bibliotekę klas (nie zapomnij 
+o kolorkach!).
+1. Zdefiniuj gildię i dodaj kilku najemników i kilka wypraw.
+2. Wywołaj metody wykonujące wskazaną funkcjonalność na liście najemników i liście wypraw 
+przekazując do nich własne metody (np. metodę wyświetlającą imię postaci, metodę 
+wyświetlającą potwora przypisanego do wyprawy, itp.).
+3. Przetestuj metody do wyszukiwania najemników i wypraw.
+4. Podepnij przykładowe metody do obsługi zdefiniowanych zdarzeń, a następnie przetestuj ich 
+działanie (poprzez zatrudnienie najemnika, zgłoszenie wyprawy, i wysłanie najemnika na 
+wyprawę). Pamiętajmy, aby obsługę zdarzeń zdefiniować przed wywołaniem odpowiednich 
+metod).
+Jestem ciekawy, jakie przykłady obsługi zdarzeń zdefiniujecie. Pamiętajcie, że możecie 
+dowolnie rozwijać ten projekt. Można tu dodać wiele interesujących funkcjonalności. Mnie aż 
+kusi, żeby kilka jeszcze dopisać, ale zadanie byłoby za długie.
