@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "BookId": 1,
+    "Book": {
+      "Id": 1,
+      "Title": "ERASMUS MACERASI",
+      "Author": "EM\u0130RHAN",
+      "ISBN": "348539",
+      "PublicationYear": 2025,
+      "Publisher": "LNTGRJS",
+      "IsAvailable": true,
+      "Genre": "JKHSRFELA",
+      "DateAdded": "2025-05-06T14:12:32.1105646+02:00"
+    },
+    "MemberId": 1,
+    "Member": {
+      "Id": 1,
+      "FirstName": "EM\u0130RHAN",
+      "LastName": "ERKAN",
+      "Email": "EM\u0130RHANERKN@HOTMA\u0130L.COM",
+      "PhoneNumber": "9345843",
+      "MembershipDate": "2025-05-06T14:13:08.0824953+02:00",
+      "IsActive": true,
+      "BorrowHistory": [],
+      "FullName": "EM\u0130RHAN ERKAN"
+    },
+    "BorrowDate": "2025-05-06T14:13:13.7550087+02:00",
+    "DueDate": "2025-05-20T14:13:13.7550087+02:00",
+    "ReturnDate": "2025-05-06T14:13:27.4270736+02:00",
+    "IsReturned": true,
+    "LateFee": null
+  }
+]

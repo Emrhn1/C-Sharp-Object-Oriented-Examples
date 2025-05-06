@@ -1,0 +1,12 @@
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\bin\Debug\net9.0\LibraryManagement.Core.deps.json
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\bin\Debug\net9.0\LibraryManagement.Core.dll
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\bin\Debug\net9.0\LibraryManagement.Core.pdb
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\LibraryManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\LibraryManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\LibraryManagement.Core.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\LibraryManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\LibraryManagement.Core.sourcelink.json
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\LibraryManagement.Core.dll
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\refint\LibraryManagement.Core.dll
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\LibraryManagement.Core.pdb
+C:\Users\Emirhan\Desktop\8-9\LibraryManagement\LibraryManagement.Core\obj\Debug\net9.0\ref\LibraryManagement.Core.dll
