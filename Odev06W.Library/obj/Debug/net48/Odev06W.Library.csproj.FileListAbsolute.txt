@@ -1,0 +1,10 @@
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\obj\Debug\net48\Odev06W.Library.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\obj\Debug\net48\Odev06W.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\obj\Debug\net48\Odev06W.Library.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\obj\Debug\net48\Odev06W.Library.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\obj\Debug\net48\Odev06W.Library.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\obj\Debug\net48\Odev06W.Library.sourcelink.json
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\bin\Debug\net48\Odev06W.Library.dll
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\bin\Debug\net48\Odev06W.Library.pdb
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\obj\Debug\net48\Odev06W.Library.dll
+C:\Users\Emirhan\Desktop\Odev06W\Odev06W.Library\obj\Debug\net48\Odev06W.Library.pdb
