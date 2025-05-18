@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev02", "Odev02\Odev02.csproj", "{0BDB87B5-61F5-48E8-9C5C-4D27DBF0064F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6A35C5C7-8A3F-4135-BD08-681BB884C07A} = {6A35C5C7-8A3F-4135-BD08-681BB884C07A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev02Konsolu", "Odev02Konsolu\Odev02Konsolu.csproj", "{6A35C5C7-8A3F-4135-BD08-681BB884C07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDB87B5-61F5-48E8-9C5C-4D27DBF0064F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDB87B5-61F5-48E8-9C5C-4D27DBF0064F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDB87B5-61F5-48E8-9C5C-4D27DBF0064F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDB87B5-61F5-48E8-9C5C-4D27DBF0064F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A35C5C7-8A3F-4135-BD08-681BB884C07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A35C5C7-8A3F-4135-BD08-681BB884C07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A35C5C7-8A3F-4135-BD08-681BB884C07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A35C5C7-8A3F-4135-BD08-681BB884C07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {092323BF-D339-4FC8-84F5-86BA1F46FFBB}
+	EndGlobalSection
+EndGlobal
