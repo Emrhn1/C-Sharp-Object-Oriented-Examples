@@ -1,0 +1,12 @@
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\bin\Debug\net9.0\DragonGame.Library.deps.json
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\bin\Debug\net9.0\DragonGame.Library.dll
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\bin\Debug\net9.0\DragonGame.Library.pdb
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\DragonGame.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\DragonGame.Library.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\DragonGame.Library.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\DragonGame.Library.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\DragonGame.Library.sourcelink.json
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\DragonGame.Library.dll
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\refint\DragonGame.Library.dll
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\DragonGame.Library.pdb
+C:\Users\Emirhan\Desktop\ODEV06\DragonGame.Library\obj\Debug\net9.0\ref\DragonGame.Library.dll
