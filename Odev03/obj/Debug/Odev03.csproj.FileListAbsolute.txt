@@ -1,7 +1,0 @@
-C:\Users\Emirhan\source\repos\Odev03\Odev03\bin\Debug\Odev03.exe.config
-C:\Users\Emirhan\source\repos\Odev03\Odev03\bin\Debug\Odev03.exe
-C:\Users\Emirhan\source\repos\Odev03\Odev03\bin\Debug\Odev03.pdb
-C:\Users\Emirhan\source\repos\Odev03\Odev03\obj\Debug\Odev03.csproj.AssemblyReference.cache
-C:\Users\Emirhan\source\repos\Odev03\Odev03\obj\Debug\Odev03.csproj.CoreCompileInputs.cache
-C:\Users\Emirhan\source\repos\Odev03\Odev03\obj\Debug\Odev03.exe
-C:\Users\Emirhan\source\repos\Odev03\Odev03\obj\Debug\Odev03.pdb

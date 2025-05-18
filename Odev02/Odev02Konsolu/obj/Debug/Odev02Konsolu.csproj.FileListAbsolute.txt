@@ -1,2 +1,0 @@
-C:\Users\Emirhan\source\repos\Odev02\Odev02Konsolu\obj\Debug\Odev02Konsolu.csproj.AssemblyReference.cache
-C:\Users\Emirhan\source\repos\Odev02\Odev02Konsolu\obj\Debug\Odev02Konsolu.csproj.CoreCompileInputs.cache
