@@ -1,0 +1,7 @@
+C:\Users\Emirhan\source\repos\Odev05\Odev05\obj\Debug\Odev05.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Odev05\Odev05\obj\Debug\Odev05.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Odev05\Odev05\bin\Debug\Odev05.exe.config
+C:\Users\Emirhan\source\repos\Odev05\Odev05\bin\Debug\Odev05.exe
+C:\Users\Emirhan\source\repos\Odev05\Odev05\bin\Debug\Odev05.pdb
+C:\Users\Emirhan\source\repos\Odev05\Odev05\obj\Debug\Odev05.exe
+C:\Users\Emirhan\source\repos\Odev05\Odev05\obj\Debug\Odev05.pdb
