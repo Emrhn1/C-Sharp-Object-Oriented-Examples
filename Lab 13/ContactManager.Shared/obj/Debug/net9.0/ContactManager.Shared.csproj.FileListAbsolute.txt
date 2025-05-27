@@ -1,0 +1,12 @@
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\bin\Debug\net9.0\ContactManager.Shared.deps.json
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\bin\Debug\net9.0\ContactManager.Shared.dll
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\bin\Debug\net9.0\ContactManager.Shared.pdb
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\ContactManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\ContactManager.Shared.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\ContactManager.Shared.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\ContactManager.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\ContactManager.Shared.sourcelink.json
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\ContactManager.Shared.dll
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\refint\ContactManager.Shared.dll
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\ContactManager.Shared.pdb
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.Shared\obj\Debug\net9.0\ref\ContactManager.Shared.dll

@@ -1,0 +1,16 @@
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\bin\Debug\net9.0\ContactManager.JsonPlugin.deps.json
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\bin\Debug\net9.0\ContactManager.JsonPlugin.dll
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\bin\Debug\net9.0\ContactManager.JsonPlugin.pdb
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\bin\Debug\net9.0\ContactManager.Shared.dll
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\bin\Debug\net9.0\ContactManager.Shared.pdb
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactManager.JsonPlugin.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactManager.JsonPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactManager.JsonPlugin.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactManager.JsonPlugin.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactManager.JsonPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactManager.JsonPlugin.sourcelink.json
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactM.B81B3D1C.Up2Date
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactManager.JsonPlugin.dll
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\refint\ContactManager.JsonPlugin.dll
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ContactManager.JsonPlugin.pdb
+C:\Users\Emirhan\Desktop\Lab 13\ContactManager.JsonPlugin\obj\Debug\net9.0\ref\ContactManager.JsonPlugin.dll
