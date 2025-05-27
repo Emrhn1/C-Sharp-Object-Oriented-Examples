@@ -1,0 +1,15 @@
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\bin\Debug\net9.0-windows\XMLWarriors.exe
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\bin\Debug\net9.0-windows\XMLWarriors.deps.json
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\bin\Debug\net9.0-windows\XMLWarriors.runtimeconfig.json
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\bin\Debug\net9.0-windows\XMLWarriors.dll
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\bin\Debug\net9.0-windows\XMLWarriors.pdb
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\XMLWarriors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\XMLWarriors.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\XMLWarriors.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\XMLWarriors.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\XMLWarriors.sourcelink.json
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\XMLWarriors.dll
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\refint\XMLWarriors.dll
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\XMLWarriors.pdb
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\XMLWarriors.genruntimeconfig.cache
+C:\Users\Emirhan\Desktop\Lab 14\XMLWarriors\obj\Debug\net9.0-windows\ref\XMLWarriors.dll

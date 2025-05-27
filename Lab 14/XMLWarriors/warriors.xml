@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<guild>
+  <warrior gender="Male">
+    <name>Arthur</name>
+    <level>10</level>
+    <hp>100</hp>
+    <monster>Dragon</monster>
+  </warrior>
+  <warrior gender="Female">
+    <name>Morgana</name>
+    <level>12</level>
+    <hp>95</hp>
+    <monster>Griffin</monster>
+  </warrior>
+  <warrior gender="Male">
+    <name>Lancelot</name>
+    <level>11</level>
+    <hp>110</hp>
+    <monster>Hydra</monster>
+  </warrior>
+</guild>
